@@ -1,0 +1,21 @@
+========================tasks have to be done=========================
+
+
+- phone login
+
+
+
+
+====================tasks are completed===================
+- create user using email and password
+- logged in user
+- set user name
+- email verify message
+- create and logged in user success message
+- password reset message
+- show error message
+- show password
+- google login
+- github login
+- facebook login
+
